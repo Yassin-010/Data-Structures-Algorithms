@@ -13,4 +13,16 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/0089-gray-code) |
+## Array
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Union Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
