@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/0684-redundant-connection) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
@@ -39,6 +40,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/0684-redundant-connection) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Topological Sort
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/0684-redundant-connection) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
