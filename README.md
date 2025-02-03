@@ -18,6 +18,7 @@
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Union Find
 |  |
 | ------- |
