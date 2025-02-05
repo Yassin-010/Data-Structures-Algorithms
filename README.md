@@ -57,4 +57,16 @@
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Hash Table
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## String
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
