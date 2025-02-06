@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
@@ -68,5 +70,6 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
