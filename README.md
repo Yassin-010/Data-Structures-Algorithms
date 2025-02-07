@@ -21,6 +21,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Union Find
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
