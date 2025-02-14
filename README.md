@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/0089-gray-code) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 ## Backtracking
 |  |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -101,4 +103,16 @@
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
