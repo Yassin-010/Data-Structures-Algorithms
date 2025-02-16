@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/0089-gray-code) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
