@@ -12,6 +12,7 @@
 | ------- |
 | [0089-gray-code](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/0089-gray-code) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3447-clear-digits) |
 ## Counting
 |  |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -117,4 +120,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
+## Greedy
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
