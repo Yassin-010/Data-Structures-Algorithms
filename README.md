@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/0684-redundant-connection) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/0684-redundant-connection) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -113,6 +116,7 @@
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -126,4 +130,12 @@
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
