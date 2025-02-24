@@ -27,6 +27,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -50,12 +51,14 @@
 | [0684-redundant-connection](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/0684-redundant-connection) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/0684-redundant-connection) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Topological Sort
 |  |
@@ -66,6 +69,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/0684-redundant-connection) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
@@ -134,6 +138,7 @@
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
