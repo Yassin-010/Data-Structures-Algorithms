@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -171,5 +172,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3643-zero-array-transformation-ii](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
