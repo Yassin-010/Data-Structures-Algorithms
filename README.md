@@ -31,6 +31,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/0684-redundant-connection) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -77,6 +79,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Breadth-First Search
 |  |
@@ -98,6 +101,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
@@ -109,6 +113,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/Yassin-010/Data-Structures-Algorithms/tree/master/3447-clear-digits) |
